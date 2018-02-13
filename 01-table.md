@@ -18,5 +18,8 @@
     
     $(x).on('enventname','childDom',callback)
     
-3. 使用setTimeout来进行延迟实现
+3. 使用setTimeout来进行延迟实现（定义一个全局变量timer）
 4. 去抖技术（debounce）去抖技术：当某个事件被多次触发时只执行一次。
+```
+去抖技术的原理：当事件再一次触发时清除存在的延迟事件，并且在延迟执行完毕后也要设置timer=null
+```
