@@ -10,7 +10,7 @@
     2. 子菜单用sub来起名
     3. 对于一级菜单使用ul列表，对于水平的菜单要浮动或者定位
     4. 对于带标题的使用dl列表
-    
+    5. 为了相互元素对应可以使用data*属性
 2. js交互（event）
 
     1. mouseover和mouseenter的区别:给父元素注册事件，使用mouseover时鼠标放在子元素上，即便没有离开父元素也会触发mouseout事件，但是mouseenter与之相反。
