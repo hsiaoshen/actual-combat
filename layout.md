@@ -7,6 +7,7 @@
 2. 使用子绝父相合margin来进行三栏布局
 3. 可以多层混合布局
 4. 在li前面添加箭头之类样式：list-style-image:url()
+5. 对于使用图标和字体垂直不居中问题：可以使用定位或者vertical-align:middle
 
 ### 第一步
 
