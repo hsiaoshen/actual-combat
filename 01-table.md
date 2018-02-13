@@ -15,6 +15,6 @@
 
     1. mouseover和mouseenter的区别:给父元素注册事件，使用mouseover时鼠标放在子元素上，即便没有离开父元素也会触发mouseout事件，但是mouseenter与之相反。
     2. 事件代理进行事件绑定：替代使用循环给元素绑定同类事件，好处是动态添加元素时不需要再重新给元素绑定事件，常用格式如下：
-    ```js
+```js
     $(x).on('enventname','childDom',callback)
-    ```
+```
