@@ -18,3 +18,5 @@
     
     $(x).on('enventname','childDom',callback)
     
+3. 使用setTimeout来进行延迟实现
+4. 去抖技术（debounce）去抖技术：当某个事件被多次触发时只执行一次。
