@@ -18,3 +18,7 @@
 
 结构：1个大div（top），width为100%；内含一个div（top_content）,width为980px;
 
+### 第二步：内容区域
+
+结构：整体用一个div来包含，设置宽高，margin:0 auto进行居中
+
