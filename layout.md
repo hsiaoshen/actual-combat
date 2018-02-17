@@ -32,4 +32,4 @@
 
 #### 焦点图（可以使用myfocus）
 
-[](http://demo.jb51.net/js/myfocus/tutorials.html)
+[焦点图](http://demo.jb51.net/js/myfocus/tutorials.html)
