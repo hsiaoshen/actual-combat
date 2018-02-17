@@ -9,7 +9,8 @@
 4. 在li前面添加箭头之类样式：list-style-image:url()
 5. 对于使用图标和字体垂直不居中问题：可以给图片使用定位或者vertical-align:middle
 6. 对于a标签的link等属性，必须href有值
-7.有些时候可以使用backrgound-image来填充内容
+7. 有些时候可以使用backrgound-image来填充内容
+8. 关于list-style的使用:list-style-image可以修改列表项目中的符号；list-style-type可以选择列表符号的样式，比如none(无),disc(实心圆),circle(空心圆)等
 
 ### 第一步
 
