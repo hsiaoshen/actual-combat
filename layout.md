@@ -30,3 +30,6 @@
 
 结构：一个整体的nav，包含nav_left,nav_mid,nav_right三部分，nav_mid包含nav_mid_left（无序列表链接）和nav_mid_right（search_text,一个input）
 
+#### 焦点图（可以使用myfocus）
+
+[](http://demo.jb51.net/js/myfocus/tutorials.html)
