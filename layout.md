@@ -8,6 +8,8 @@
 3. 可以多层混合布局
 4. 在li前面添加箭头之类样式：list-style-image:url()
 5. 对于使用图标和字体垂直不居中问题：可以给图片使用定位或者vertical-align:middle
+6. 对于a标签的link等属性，必须href有值
+7.有些时候可以使用backrgound-image来填充内容
 
 ### 第一步
 
@@ -22,4 +24,8 @@
 ### 第二步：内容区域
 
 结构：整体用一个div来包含，设置宽高，margin:0 auto进行居中
+
+#### 导航栏部分
+
+结构：一个整体的nav，包含nav_left,nav_mid,nav_right三部分，nav_mid包含nav_mid_left（无序列表链接）和nav_mid_right（search_text,一个input）
 
